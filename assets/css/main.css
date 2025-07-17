@@ -16,12 +16,6 @@
   --heading-font: "Raleway",  sans-serif;
   --nav-font: "Poppins",  sans-serif;
 }
-.iframe-wrapper iframe {
-  display: block;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-}
 
 body, html {
   margin: 0;
